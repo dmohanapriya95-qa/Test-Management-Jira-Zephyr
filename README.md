@@ -45,6 +45,3 @@ Microsoft Excel
 **Conclusion**
 
 This project helped me gain practical knowledge of test management, including planning, execution, and reporting using industry-standard tools.
-📌 Conclusion
-
-This project helped me gain practical knowledge of test management, including planning, execution, and reporting using industry-standard tools.
